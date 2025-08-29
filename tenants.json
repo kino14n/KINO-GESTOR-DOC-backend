@@ -1,0 +1,8 @@
+{
+  "cliente-predeterminado": {
+    "db_host": "TU_HOST_DE_DB_AQUI",
+    "db_user": "TU_USUARIO_DE_DB_AQUI",
+    "db_pass": "TU_PASSWORD_DE_DB_AQUI",
+    "db_name": "TU_NOMBRE_DE_DB_AQUI"
+  }
+}
